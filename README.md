@@ -51,4 +51,9 @@
   <a href="https://www.java.org/standard/74528.html" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a>
+  &nbsp;&nbsp;
+&nbsp;&nbsp;
+<a href="https://expo.dev/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" alt="expo" width="40" height="40"/> 
+</a>
 </p>
