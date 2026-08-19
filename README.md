@@ -1,89 +1,152 @@
-# 👋 Hey, I'm Matthew Yuslih
+<!-- HEADER -->
 
-### Software Engineering Student · Full-Stack Developer
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=220&section=header&text=Matthew%20Yuslih&fontSize=48&fontColor=ffffff&fontAlignY=35&animation=fadeIn" />
+</p>
 
-I build web & mobile applications and enjoy turning ideas into clean, scalable products.
+<!-- TYPING -->
 
-Currently exploring **Node.js, Express.js, and backend architecture**.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Software+Engineering+Student;Building+Web+%26+Mobile+Applications;Currently+exploring+Node.js+%26+Express.js" />
+</p>
 
-📫 **[mattyuslih@gmail.com](mailto:mattyuslih@gmail.com)**
+<p align="center">
+  <a href="mailto:mattyuslih@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mattyuslih%40gmail.com-6366F1?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/MATYUS05">
+    <img src="https://img.shields.io/badge/GitHub-MATYUS05-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
----
+<br>
 
-## 🚀 Tech Stack
+## 👋 About Me
+
+I'm **Matthew Yuslih**, a Software Engineering student who enjoys building things for the web and mobile.
+
+I like working across the stack — from designing interfaces to building APIs, managing databases, and connecting everything together.
+
+* 🔭 Building web & mobile applications
+* 🌱 Currently deepening my knowledge of **Node.js & Express.js**
+* ⚙️ Interested in **backend development & software architecture**
+* 📱 Exploring **React & Expo**
+* 🚀 Always learning, building, and experimenting
+
+<br>
+
+## 🛠️ Tech Stack
 
 ### Frontend
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" />
 </p>
 
 ### Backend
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,python,java" />
 </p>
 
 ### Database & Cloud
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,supabase" />
 </p>
 
-### Mobile
+### Mobile & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,expo" />
+<p>
+  <img src="https://skillicons.dev/icons?i=expo,git,github,vscode,figma" />
 </p>
 
-### Tools
+<br>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
+## 🚀 What I Build
 
----
+<table>
+<tr>
+<td width="50%">
 
-## 📊 GitHub Stats
+### 🌐 Web Applications
+
+Building responsive and interactive web applications with modern frontend frameworks and backend APIs.
+
+</td>
+<td width="50%">
+
+### ⚙️ Backend Systems
+
+Developing REST APIs, database-driven applications, authentication systems, and backend services.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📱 Mobile Applications
+
+Creating cross-platform mobile applications using React Native and Expo.
+
+</td>
+<td width="50%">
+
+### 🧩 Software Projects
+
+Turning ideas into functional products while exploring architecture, scalability, and clean code.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 📊 Coding Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" height="170"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MATYUS05&hide_border=true&area=true&radius=8" />
 </p>
 
----
+<br>
 
-## 🔥 GitHub Streak
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/MATYUS05/MATYUS05/output/github-contribution-grid-snake.svg" />
 </p>
 
----
+<br>
 
-## 🧑‍💻 What I'm Working On
+## 📌 Currently
 
-* 🌱 Deepening my knowledge of **Node.js & Express.js**
-* ⚙️ Building scalable **REST APIs**
-* 🗄️ Exploring **PostgreSQL & backend architecture**
-* 📱 Developing applications with **React & Expo**
-* 🚀 Learning more about **software architecture and system design**
+```text
+Learning     → Node.js · Express.js · Backend Architecture
+Building     → Web & Mobile Applications
+Exploring    → PostgreSQL · APIs · System Design
+Improving    → Clean Code · Architecture · Problem Solving
+```
 
----
+<br>
 
 ## 🤝 Let's Connect
 
-<p align="left">
+<p align="center">
   <a href="mailto:mattyuslih@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/MATYUS05">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
----
+<p align="center">
+  <i>Building things, learning along the way, and occasionally fighting bugs at 2 AM.</i> ☕
+</p>
+
+<!-- FOOTER -->
 
 <p align="center">
-  <i>"Building things, breaking things, and learning along the way."</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6366F1&height=120&section=footer" />
 </p>
